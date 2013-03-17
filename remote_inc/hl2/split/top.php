@@ -11,7 +11,7 @@ else
 { 
 	if(@$_GET["IP"])
 	{
-		session_start();
+		
 		if(!$_SESSION["sPASS"])
 		{header("Location: ?");}
 		//set_include_path("/");
