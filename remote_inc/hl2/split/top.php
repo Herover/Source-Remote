@@ -1,8 +1,9 @@
 <?php
+session_start();
 $works=-1;
 if (@$_POST["sIP"])
 {
-	session_start();
+	
 	$_SESSION["sPASS"]=$_POST["sPASS"];
 	header("Location: ?IP=".urlencode($_POST["sIP"])."&port=".urlencode($_POST["sPORT"]));
 }

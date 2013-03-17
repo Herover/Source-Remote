@@ -1,9 +1,10 @@
 <?php
+session_start();
 include "../config.php";
 @require_once 		$INCPATH."/steam-condenser/lib/steam-condenser.php";
 include				$INCPATH."/hl2/connect.php";
 include				$INCPATH."/multi/log.php";
-session_start();
+
 if(@isBanned())
 {
 	echo "4";
