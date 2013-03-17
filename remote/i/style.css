@@ -1,0 +1,40 @@
+div.box
+{
+	border:2px solid #FF9900;
+	background-color:#FFF0D9;
+}
+.txt
+{
+	margin-right:0px;
+}
+a,a:link,a:visited,a:active,.link{color:#FF9900;}
+a,a:hover,.link:hover{color:#Fc2;}
+.input
+{
+	border:1px solid #FF9900;
+	color:#FF9900;
+	font-weight:bold;
+}
+.input:focus
+{
+	border:1px solid #F06000;
+}
+div.pl
+{
+background-color:#FFF0D9;
+}
+div.altpl
+{
+background-color:#fff;
+}
+}
+th.nav
+{
+border-bottom:1px solid #F90;
+border-top:1px solid #F90;
+}
+/*QUICKFIX*/
+div.wlong{width:70%;float:left;}
+.tshort{width:20%;float:left;}
+div.wlong,div.wshort{}
+.fill{height:24px;}
