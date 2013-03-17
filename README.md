@@ -5,6 +5,8 @@ It use koraktors steam-condenser to communicate with servers, and a older versio
 
 I only made it just-work for me, but you might wan't to make changes to make it work for you.
 
+I run the code here: http://remote.lolbrothers.com/hl2/
+
 #Installation
 Use 
 
