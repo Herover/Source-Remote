@@ -6,4 +6,4 @@ $MYSQL_USER = "USER";
 $MYSQL_PASS = "PASS";
 
 $ORIGIN = "http://remote.lolbrothers.com/Source-Remote";
-?> 
+?>
