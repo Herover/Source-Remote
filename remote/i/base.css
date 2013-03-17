@@ -1,0 +1,113 @@
+html,body{height:100%;margin:0px;padding:0px;}/*not in use*/
+div.mid{margin:auto;width:400px;height:100%;}
+div.box
+{
+	width:100%;
+	border:2px solid #000;
+	background-color:#FFF;
+	-webkit-border-radius: 24px;
+	-o-border-radius: 24px;
+	-moz-border-radius:24px;
+	border-radius:24px;
+	-webkit-border-bottom-right-radius: 1px;
+	-o-border-bottom-right-radius: 1px;
+	-moz-border-bottom-right-radius:1px;
+	border-bottom-right-radius:1px;
+/*	padding-bottom:4px;*/
+	margin:auto;
+}
+.txt
+{
+	margin-top:0px;
+	margin-right:24px;
+	margin-left:24px;
+}
+p{margin-bottom:8px;margin-top:8px;}
+a,a:link,a:visited,a:active,.link{color:#444;text-decoration:underline;cursor: pointer;}
+a,a:hover,.link:hover{color:#666;}
+a.b{color:#000;}
+
+.input
+{
+	border:1px solid #000;
+	outline:0;
+	color:#FFF;
+	font-weight:bold;
+	
+	-webkit-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius:4px;
+	border-radius:4px;
+}
+/*td.wlong{width:650px;}td.wshort{width:150px;}*/
+.input:focus
+{
+	border:1px solid #444;
+}
+.input[type="text"],.input[type="password"]
+{
+	width:100%;
+}
+h1,h2,h3,p,.n{
+	color:#000;
+	font-family:Verdana, Geneva, sans-serif;
+	/*http://perishablepress.com/press/2010/06/01/wrapping-content/*/
+	white-space: pre;           /* CSS 2.0 */
+	white-space: pre-wrap;      /* CSS 2.1 */
+	white-space: pre-line;      /* CSS 3.0 */
+	white-space: -pre-wrap;     /* Opera 4-6 */
+	white-space: -o-pre-wrap;   /* Opera 7 */
+	white-space: -moz-pre-wrap; /* Mozilla */
+	white-space: -hp-pre-wrap;  /* HP Printers */
+	word-wrap: break-word;      /* IE 5+ */
+}
+h1{
+	font-size:32px;
+}
+p.big{font-size:1.3em;}
+p.right{float:right;}
+.button{float:right;height:18px;position:relative;}
+div.pl
+{
+width:100%;
+background-color:#CCC;
+padding-top:0px;padding-bottom:16px;
+border-top:1px solid black;
+z-index:-1
+}
+div.altpl
+{
+background-color:#fff;
+}
+div.lastpl
+{
+	-webkit-border-bottom-left-radius: 24px;
+	-o-border-bottom-left-radius: 24px;
+	-moz-border-bottom-left-radius:24px;
+	border-bottom-left-radius:24px;
+}
+.fill{width:100%;}
+tr,td{border-spacing:0px;padding:0px;margin;0px;}
+table
+{
+width:100%;
+border-spacing:0px;
+}
+th.nav
+{
+width:25%;
+background:#fff;
+border-bottom:1px solid #000;
+border-top:1px solid #000;
+}
+.bw
+{
+background-color:#000;
+color:#fff;
+border:0px solid black;
+}
+#termo{height:300px;font-family:"Lucida Console", Monaco, monospace;overflow-y:scroll;white-space:pre;-webkit-overflow-scrolling:touch;}
+div.green{color:lime;}
+div.blue{color:blue;}
+div.red{color:red;}
+div.orange{color:orange;}
