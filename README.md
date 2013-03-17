@@ -5,7 +5,9 @@ It use koraktors steam-condenser to communicate with servers, and a older versio
 I only made it just-work for me, but you might wan't to make changes to make it work for you.
 #Installation
 Use 
+
     git clone https://github.com/Herover/Source-Remote.git 
+    
 to download files.
 
 You will need to edit config.php to match your settings.
