@@ -5,5 +5,5 @@ $INCPATH = "/var/www/Source-Remote/remote_inc";
 $MYSQL_USER = "USER";
 $MYSQL_PASS = "PASS";
 
-$ORIGIN = "http://remote.lolbrothers.com/hl2";
+$ORIGIN = "http://remote.lolbrothers.com/Source-Remote";
 ?> 
