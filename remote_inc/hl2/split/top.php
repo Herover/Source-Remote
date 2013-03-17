@@ -1,5 +1,5 @@
 <?php
-session_start();
+
 $works=-1;
 if (@$_POST["sIP"])
 {
