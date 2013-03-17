@@ -1,4 +1,5 @@
 <?php 
+session_start();
 include "config.php";
 include($INCPATH."/multi/get.php");
 include($INCPATH."//multi/log.php");
