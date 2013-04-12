@@ -7,6 +7,13 @@ I only made it just-work for me, but you might wan't to make changes to make it 
 
 I run the code here: http://remote.lolbrothers.com/hl2/
 
+##Notice:
+The code is bloated for many vulnerbilities. Most basic security features is enabled, but the safest use of the tool is to log in, get you stuff done and log out again.
+
+The relevant cookies are deleted on logout, and no one wil be able to touch your server. If you are logged in, you could risk CSRF attacks.
+
+It should not be possible to access the RCON password after you have logged in, and it disappers with the cookie on logout - no logs saved.
+
 #Installation
 Use 
 
