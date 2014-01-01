@@ -3,7 +3,7 @@ This is a tool written in php to control source based games while you are on the
 
 It use koraktors steam-condenser to communicate with servers, and a older version known to work with this tool is already installed for easy use - you might want to update yours to korakotrs newest.
 
-I only made it just-work for me, but you might wan't to make changes to make it work for you.
+I only made it just-work for me, but you might want to make changes to make it work for you.
 
 I run the code here: http://remote.lolbrothers.com/hl2/
 
